@@ -1,2 +1,2 @@
 # ASL-Detection-System
-This is my first project on Computer Vision
+A Computer Vision project on real-time detection for American Sign Language.
